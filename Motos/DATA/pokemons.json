@@ -1,0 +1,140 @@
+﻿[
+  {
+    "Numero": 1,
+    "Nome": "CG TITAN 160",
+    "Descricao": "A Titan é uma moto versátil, muito rápida e economica",
+    "Especie": "Ecomic 160",
+    "Tipo": [ "Planta", "Venenoso" ] ,
+    "Imagem": "\\img\\Motos\\001.png"
+  },
+  {
+    "Numero": 2,
+    "Nome": "CG FAN 160",
+    "Descricao": "A Fan veio para ajudar os motociclistas a serem felizes",
+    "Especie": "Economic 160",
+    "Tipo": [ "Planta", "Venenoso" ],
+    "Imagem": "\\img\\Motos\\002.png"
+  },
+  {
+    "Numero": 3,
+    "Nome": "CG CARGO 160",
+    "Descricao": "A cargo veio destinada a trabalhos e rebustes, economica e para uso no dia a dia do trabalho",
+    "Especie": "Economic 160",
+    "Tipo": [ "Planta", "Venenoso" ],
+    "Imagem": "\\img\\Motos\\003.png"
+  },
+  {
+    "Numero": 4,
+    "Nome": "CB 300",
+    "Descricao": "A cb 300 é para os amantes da velocidade e conforto nas pistas.",
+    "Especie": "300",
+    "Tipo": [ "Planta", "Venenoso" ],
+    "Imagem": "\\img\\Motos\\004.png"
+  },
+  {
+    "Numero": 5,
+    "Nome": "CB Twister 300",
+    "Descricao": "A nova Cb Twister veio para mostrar o que é uma moto completa que te garante velocidade economia e eficiencia",
+    "Especie": "300cc",
+    "Tipo": [ "Fogo" ],
+    "Imagem": "\\img\\pokemons\\005.png"
+  },
+  {
+    "Numero": 6,
+    "Nome": "CB 300 USA",
+    "Descricao": "A CB USA, novo modelo americano, vem para trazer o ar old school de muita velocidade mas traz também muita tecnologia",
+    "Especie": "300",
+    "Tipo": [ "Fogo", "Voador" ],
+    "Imagem": "\\img\\Motos\\006.png"
+  },
+  {
+    "Numero": 7,
+    "Nome": "Squirtle",
+    "Descricao": "A concha de Squirtle não é apenas usada para proteção. A forma arredondada da concha e as ranhuras na superfície ajudam a minimizar a resistência na água, permitindo que este Pokémon nade em alta velocidade.",
+    "Especie": "Tiny Turtle",
+    "Tipo": [ "Água" ],
+    "Altura": 0.5,
+    "Peso": 9,
+    "Imagem": "\\img\\pokemons\\007.png"
+  },
+  {
+    "Numero": 8,
+    "Nome": "Wartortle",
+    "Descricao": "Sua cauda é grande e coberta com um pêlo rico e grosso. A cauda torna-se cada vez mais profunda na cor à medida que Wartortle envelhece. Os arranhõees em sua concha são uma evidência da dureza deste Pokémon como um lutador.",
+    "Especie": "Turtle",
+    "Tipo": [ "Água" ],
+    "Altura": 1,
+    "Peso": 22.5,
+    "Imagem": "\\img\\pokemons\\008.png"
+  },
+  {
+    "Numero": 9,
+    "Nome": "Blastoise",
+    "Descricao": "Blastoise tem bicos de água que se projetam de sua concha. Os bicos de água são muito precisos. Eles podem disparar balas de água com precisão suficiente para atingir latas vazias a uma distância de mais de 60 metros.",
+    "Especie": "Shellfish",
+    "Tipo": [ "Água" ],
+    "Altura": 1.6,
+    "Peso": 85.5,
+    "Imagem": "\\img\\pokemons\\009.png"
+  },
+  {
+    "Numero": 10,
+    "Nome": "Caterpie",
+    "Descricao": "Caterpie tem um apetite voraz. Ele pode devorar folhas maiores que seu corpo diante dos seus olhos. De sua antena, este Pokémon libera um odor terrivelmente forte.",
+    "Especie": "Worm",
+    "Tipo": [ "Inseto" ],
+    "Altura": 0.3,
+    "Peso": 2.9,
+    "Imagem": "\\img\\pokemons\\010.png"
+  },
+  {
+    "Numero": 11,
+    "Nome": "Metapod",
+    "Descricao": "A concha que cobre o corpo deste Pokémon é tão dura quanto uma laje de ferro. Metapod não se move muito. Ele fica parado porque estã preparando suas entranhas suaves para a evolução dentro da casca dura.",
+    "Especie": "Cocoon",
+    "Tipo": [ "Inseto" ],
+    "Altura": 0.7,
+    "Peso": 9.9,
+    "Imagem": "\\img\\pokemons\\011.png"
+  },
+  {
+    "Numero": 12,
+    "Nome": "Butterfree",
+    "Descricao": "Butterfree tem uma capacidade superior para procurar mel delicioso de flores. Pode até procurar, extrair e transportar mel de flores que estão desabrochando a mais de 10 quilômetros do ninho.",
+    "Especie": "Butterfly",
+    "Tipo": [ "Inseto", "Voador" ],
+    "Altura": 1.1,
+    "Peso": 32,
+    "Imagem": "\\img\\pokemons\\012.png"
+  },
+  {
+    "Numero": 13,
+    "Nome": "Weedle",
+    "Descricao": "Weedle tem um olfato extremamente agudo. Ele é capaz de distinguir seus tipos favoritos de folhas daqueles de que não gosta, apenas farejando com sua grande tromba vermelha (nariz).",
+    "Especie": "Hairy Bug",
+    "Tipo": [ "Inseto", "Venenoso" ],
+    "Altura": 0.3,
+    "Peso": 3.2,
+    "Imagem": "\\img\\pokemons\\013.png"
+  },
+  {
+    "Numero": 14,
+    "Nome": "Kakuna",
+    "Descricao": "Kakuna permanece praticamente imóvel enquanto se agarra a uma árvore. No entanto, por dentro, é extremamente ocupado, enquanto se prepara para a sua evolução futura. Isso é evidente pelo quão quente a concha fica ao ser tocada.",
+    "Especie": "Cocoon",
+    "Tipo": [ "Inseto", "Venenoso" ],
+    "Altura": 0.6,
+    "Peso": 10,
+    "Imagem": "\\img\\pokemons\\014.png"
+  },
+  {
+    "Numero": 15,
+    "Nome": "Beedrill",
+    "Descricao": "Beedrill é extremamente territorial. Ninguém deve se aproximar de seu ninho, isso é para sua própria segurança. Se irritados, eles atacarão em um enxame furioso.",
+    "Especie": "Poison Bee",
+    "Tipo": [ "Inseto", "Venenoso" ],
+    "Altura": 1,
+    "Peso": 29.5,
+    "Imagem": "\\img\\pokemons\\015.png"
+  },
+]
