@@ -1,4 +1,5 @@
 using System.Diagnostics;
+using System.Text.json;
 using Microsoft.AspNetCore.Mvc;
 using Motos.Models;
 
@@ -14,8 +15,15 @@ public class HomeController : Controller
     }
 
     public IActionResult Index()
-    {
+    {   
+        List<Pokemon> pokemons = [];
+        using (StreamReader leitor = new("Data\\Motos.json"))
+        {
+            string dados = leitor.ReadToEnd();
+            Motos = jsonSerealizer.Deserealize<List<Motos>>(dados);
+        }
         return View();
+
     }
 
     public IActionResult Privacy()

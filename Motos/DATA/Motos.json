@@ -4,7 +4,7 @@
     "Nome": "CG TITAN 160",
     "Descricao": "A Titan é uma moto versátil, muito rápida e economica",
     "Especie": "Ecomic 160",
-    "Tipo": [ "Planta", "Venenoso" ] ,
+    "Tipo": [ "HONDA" ] ,
     "Imagem": "\\img\\Motos\\001.png"
   },
   {
@@ -12,7 +12,7 @@
     "Nome": "CG FAN 160",
     "Descricao": "A Fan veio para ajudar os motociclistas a serem felizes",
     "Especie": "Economic 160",
-    "Tipo": [ "Planta", "Venenoso" ],
+    "Tipo": [ "HONDA" ],
     "Imagem": "\\img\\Motos\\002.png"
   },
   {
@@ -20,7 +20,7 @@
     "Nome": "CG CARGO 160",
     "Descricao": "A cargo veio destinada a trabalhos e rebustes, economica e para uso no dia a dia do trabalho",
     "Especie": "Economic 160",
-    "Tipo": [ "Planta", "Venenoso" ],
+    "Tipo": [ "HONDA" ],
     "Imagem": "\\img\\Motos\\003.png"
   },
   {
@@ -28,7 +28,7 @@
     "Nome": "CB 300",
     "Descricao": "A cb 300 é para os amantes da velocidade e conforto nas pistas.",
     "Especie": "300",
-    "Tipo": [ "Planta", "Venenoso" ],
+    "Tipo": [ "HONDA" ],
     "Imagem": "\\img\\Motos\\004.png"
   },
   {
@@ -36,7 +36,7 @@
     "Nome": "CB Twister 300",
     "Descricao": "A nova Cb Twister veio para mostrar o que é uma moto completa que te garante velocidade economia e eficiencia",
     "Especie": "300cc",
-    "Tipo": [ "Fogo" ],
+    "Tipo": [ "HONDA" ],
     "Imagem": "\\img\\pokemons\\005.png"
   },
   {
@@ -44,28 +44,24 @@
     "Nome": "CB 300 USA",
     "Descricao": "A CB USA, novo modelo americano, vem para trazer o ar old school de muita velocidade mas traz também muita tecnologia",
     "Especie": "300",
-    "Tipo": [ "Fogo", "Voador" ],
+    "Tipo": [ "HONDA" ],
     "Imagem": "\\img\\Motos\\006.png"
   },
   {
     "Numero": 7,
-    "Nome": "Squirtle",
-    "Descricao": "A concha de Squirtle não é apenas usada para proteção. A forma arredondada da concha e as ranhuras na superfície ajudam a minimizar a resistência na água, permitindo que este Pokémon nade em alta velocidade.",
-    "Especie": "Tiny Turtle",
-    "Tipo": [ "Água" ],
-    "Altura": 0.5,
-    "Peso": 9,
-    "Imagem": "\\img\\pokemons\\007.png"
+    "Nome": "FAZER 160 AZUL",
+    "Descricao": "A Fazer vem a ser uma das piores motos devido a sua marca de fabricaçáo",
+    "Especie": "160",
+    "Tipo": [ "YAMAHA" ],
+    "Imagem": "\\img\\Motos\\007.png"
   },
   {
     "Numero": 8,
-    "Nome": "Wartortle",
-    "Descricao": "Sua cauda é grande e coberta com um pêlo rico e grosso. A cauda torna-se cada vez mais profunda na cor à medida que Wartortle envelhece. Os arranhõees em sua concha são uma evidência da dureza deste Pokémon como um lutador.",
-    "Especie": "Turtle",
-    "Tipo": [ "Água" ],
-    "Altura": 1,
-    "Peso": 22.5,
-    "Imagem": "\\img\\pokemons\\008.png"
+    "Nome": "DUCATI 650",
+    "Descricao": "A Ducati possuí 650 cilindradas de pura emoção e velocidade",
+    "Especie": "650",
+    "Tipo": [ "DUCATI" ],
+    "Imagem": "\\img\\Motos\\008.png"
   },
   {
     "Numero": 9,
@@ -75,7 +71,7 @@
     "Tipo": [ "Água" ],
     "Altura": 1.6,
     "Peso": 85.5,
-    "Imagem": "\\img\\pokemons\\009.png"
+    "Imagem": "\\img\\Motos\\009.png"
   },
   {
     "Numero": 10,
@@ -85,7 +81,7 @@
     "Tipo": [ "Inseto" ],
     "Altura": 0.3,
     "Peso": 2.9,
-    "Imagem": "\\img\\pokemons\\010.png"
+    "Imagem": "\\img\\Motos\\010.png"
   },
   {
     "Numero": 11,
@@ -95,7 +91,7 @@
     "Tipo": [ "Inseto" ],
     "Altura": 0.7,
     "Peso": 9.9,
-    "Imagem": "\\img\\pokemons\\011.png"
+    "Imagem": "\\img\\Motos\\011.png"
   },
   {
     "Numero": 12,
@@ -105,7 +101,7 @@
     "Tipo": [ "Inseto", "Voador" ],
     "Altura": 1.1,
     "Peso": 32,
-    "Imagem": "\\img\\pokemons\\012.png"
+    "Imagem": "\\img\\Motos\\012.png"
   },
   {
     "Numero": 13,
@@ -115,7 +111,7 @@
     "Tipo": [ "Inseto", "Venenoso" ],
     "Altura": 0.3,
     "Peso": 3.2,
-    "Imagem": "\\img\\pokemons\\013.png"
+    "Imagem": "\\img\\Motos\\013.png"
   },
   {
     "Numero": 14,
@@ -125,7 +121,7 @@
     "Tipo": [ "Inseto", "Venenoso" ],
     "Altura": 0.6,
     "Peso": 10,
-    "Imagem": "\\img\\pokemons\\014.png"
+    "Imagem": "\\img\\Motos\\014.png"
   },
   {
     "Numero": 15,
@@ -135,6 +131,6 @@
     "Tipo": [ "Inseto", "Venenoso" ],
     "Altura": 1,
     "Peso": 29.5,
-    "Imagem": "\\img\\pokemons\\015.png"
+    "Imagem": "\\img\\Motos\\015.png"
   }
 ]
